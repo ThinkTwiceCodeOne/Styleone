@@ -5,5 +5,5 @@ In this Project I write code in very old style. Those who knows about PrintWrite
 
 ![image](https://user-images.githubusercontent.com/112020385/218235072-1839fd5f-f3df-41d5-b899-b9784fa9a8ab.png)
 
+<img width="960" alt="designations" src="https://user-images.githubusercontent.com/112020385/218235102-bd2db404-00cd-4e5f-aa10-28231788c302.png">
 
-<img width="960" alt="employees" src="https://user-images.githubusercontent.com/112020385/218235092-3b4974ca-1d57-4f28-bcda-e7b1307f310d.png">
